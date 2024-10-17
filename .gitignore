@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+
+# Environment variables file
+.env
+
+# SQLite database
+*.sqlite
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Project-specific folders
+SurfsUp/Resources/
